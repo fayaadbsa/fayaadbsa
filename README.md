@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi folks! 😸👋
+
+- 🌱 I’m currently learning Javascript Frontend Framework
+- 👯 I’m looking to collaborate on Web Project
+- 📫 How to reach me: fayet256@gmail.com
+- ⚡ Fun fact: i hate spice
+
 
 <!--
 **fayaadbsa/fayaadbsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
