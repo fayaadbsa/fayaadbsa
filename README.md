@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript Frontend Framework
 - 👯 I’m looking to collaborate on Web Project
 - 📫 How to reach me: fayet256@gmail.com
-- ⚡ Fun fact: i hate spice
+- ⚡ Fun fact: i hate chili 🌶
 
 
 <!--
