@@ -1,4 +1,4 @@
-### Hi folks! 😸👋
+### Hi folks!😁👋
 
 - 🌱 I’m currently learning Javascript Frontend Framework
 - 👯 I’m looking to collaborate on Web Project
