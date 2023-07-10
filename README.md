@@ -6,7 +6,7 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayaadbsa)
-![](https://komarev.com/ghpvc/?username=fayaadbsa&color=FF8E2B)
+![](https://komarev.com/ghpvc/?username=fayaadbsa&color=blue)
 
 ## About me
 
