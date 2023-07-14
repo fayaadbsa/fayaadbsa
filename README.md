@@ -18,6 +18,6 @@
 ## Stats
 
 <div>
-  <a href="https://github.com/fayaadbsa/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api?username=fayaadbsa&show_icons=true&include_all_commits=true&theme=react&hide_rank=true&hide=contribs,issues" alt="Fayaad's github stats" /></a>
+<!--   <a href="https://github.com/fayaadbsa/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api?username=fayaadbsa&show_icons=true&include_all_commits=true&theme=react&hide_rank=true&hide=contribs,issues" alt="Fayaad's github stats" /></a> -->
   <a href="https://github.com/fayaadbsa/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayaadbsa&layout=compact&theme=react" /></a>
 </div>
