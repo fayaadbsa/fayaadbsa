@@ -6,13 +6,13 @@
 ## About Me
 
 - 🚀 Diving into web development and backend architectures.
-- 🌎 Dabble in Frontend tech like React, Next.js, and Vue.js.
+- 🌎 Dabble in Frontend tech like NextJS, VueJS and Tailwind.
 - 👋 Always up for exciting app projects.
 
 ## Hobbies
 
 - 🎮 Love to play multiplayer online games.
-- 🤵 Enjoy watching animes, dramas and movies.
+- 🤵 Enjoy watching animes, movies and series.
 
 ## Stats
 
