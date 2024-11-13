@@ -31,7 +31,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fayaadbsa&show_icons=true&theme=react&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Stats&langs_count=6" alt="fayaadbsa's Wakatime stats" />
   </a>
 </div>
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayaadbsa)
