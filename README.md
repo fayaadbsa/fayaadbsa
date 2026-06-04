@@ -1,33 +1,37 @@
 <div>
   <h1 align="center">Hey there! I'm Fayaad 🦊</h1>
-  <p align="center">A Full Stack Developer with expertise in JavaScript.</p>
+  <p align="center">Software Engineer focused on JavaScript, Python, and scalable web systems.</p>
 </div>
 
 ## About Me
 
-- 🚀 Diving into web development and backend architectures.
-- 🌎 Dabble in Frontend tech like NextJS, VueJS and Tailwind.
-- 👋 Always up for exciting app projects.
+- 🚀 Building and exploring web apps, backend systems, and AI-powered tools  
+- 🌐 Working with frontend and full-stack technologies like Next.js, Vue, and Tailwind  
+- ⚙️ Interested in scalable architectures, real-time systems, and practical AI applications  
+- ✈️ Love traveling and discovering new places  
+- 👋 Always open to interesting projects and collaborations  
 
 ## Hobbies
 
-- 🎮 Love to play multiplayer online games.
-- 🤵 Enjoy watching animes, movies and series.
+- 🎮 Multiplayer gaming  
+- 🎬 Anime, movies, and series  
+- ✈️ Traveling and exploring cultures  
 
 ## Stats
 
-<div>
-  <img src="https://wakatime.com/badge/user/018b7edc-482c-4960-98f4-34b080cd7779.svg" height="25" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
 
 <!--
 <div>
   <a href="https://github.com/fayaadbsa/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayaadbsa&layout=compact&theme=react" /></a>
 </div>
--->
+
 
 <div>
   <a href="https://github.com/fayaadbsa/fayaadbsa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fayaadbsa&show_icons=true&theme=react&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Stats&langs_count=6" alt="fayaadbsa's Wakatime stats" />
   </a>
 </div>
+  -->
