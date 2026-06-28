@@ -19,11 +19,13 @@
 
 ## Stats
 
+<!--
+[![Fayaadbsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaadbsa)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fayaadbsa&show_icons=true" />
 </p>
 
-<!--
 <div>
   <a href="https://github.com/fayaadbsa/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayaadbsa&layout=compact&theme=react" /></a>
 </div>
