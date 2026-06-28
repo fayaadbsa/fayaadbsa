@@ -19,21 +19,9 @@
 
 ## Stats
 
-<!--
+![Fayaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayaadbsa&show_icons=true&hide_rank=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaadbsa&layout=compact&theme=radical)
+
 [![Fayaadbsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaadbsa)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayaadbsa&show_icons=true" />
-</p>
-
-<div>
-  <a href="https://github.com/fayaadbsa/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayaadbsa&layout=compact&theme=react" /></a>
-</div>
-
-
-<div>
-  <a href="https://github.com/fayaadbsa/fayaadbsa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fayaadbsa&show_icons=true&theme=react&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Stats&langs_count=6" alt="fayaadbsa's Wakatime stats" />
-  </a>
-</div>
-  -->
