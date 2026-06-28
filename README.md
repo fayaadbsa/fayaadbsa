@@ -22,6 +22,3 @@
 ![Fayaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayaadbsa&show_icons=true&hide_rank=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaadbsa&layout=compact&theme=radical)
-
-[![Fayaadbsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaadbsa)](https://github.com/anuraghazra/github-readme-stats)
-
